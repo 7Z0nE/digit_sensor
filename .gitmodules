@@ -1,0 +1,3 @@
+[submodule "digit-interface"]
+	path = digit-interface
+	url = github:7Z0nE/digit-interface
