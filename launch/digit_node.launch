@@ -1,0 +1,3 @@
+<launch>
+	<node pkg="digit_sensor" type="digit.py" name="left_finger" namespace="digit" args="D00045 QVGA 60" />
+</launch>
