@@ -1,6 +1,6 @@
 <?xml version="1.0"?>
 <package format="2">
-  <name>digit-sensor</name>
+  <name>digit_sensor</name>
   <version>0.1.0</version>
   <description>ROS node built upon the python package digit-interface https://pypi.org/project/digit-interface/</description>
 
